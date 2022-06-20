@@ -1,0 +1,2 @@
+# SearchEngineForStudent
+HUST大二下java大作业，基于内存的搜索引擎设计和实现，详细解释见实验报告，附带完整的javadoc。
